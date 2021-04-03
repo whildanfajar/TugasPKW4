@@ -1,0 +1,11 @@
+.hero-banner{
+    background-image: url(https://th.bing.com/th/id/R28ae4d08d2ba5f7e73860d9a9fec2808?rik=bQX9RDzTYudWPw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f9%2fb%2f8%2f299925.jpg&ehk=PGLouborAcX5t%2fHpHUlym3Ew8iQhR8spmP8StYkNUsU%3d&risl=&pid=ImgRaw);
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    height: 50px;
+}
